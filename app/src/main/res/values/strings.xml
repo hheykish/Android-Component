@@ -1,0 +1,33 @@
+<resources>
+    <string name="name">AKASH KANNAUIYA - 09</string>
+    <string name="app_name">Text Viewer</string>
+    <string name="head_text">TextView and EditView </string>
+    <string name="display_output">Display Output :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="checkBox1">Java</string>
+    <string name="checkBox2">C++</string>
+    <string name="checkBox3">Python</string>
+    <string name="checkBox4">IOT</string>
+    <string name="checkBox5">Ruby</string>
+    <string name="gender">Gender :</string>
+    <string name="enter_text">Enter Text :</string>
+    <string name="reset_text">Reset Text</string>
+    <string name="submit">SUBMIT</string>
+    <string name="subject">Subject :</string>
+
+<!-- - - - - - - - - - spinner - - - - - - - - -->
+
+    <string name="course">Course :</string>
+    <string-array name="spinner_items">
+        <item>- select -</item>
+        <item> B.Tech </item>
+        <item> B.E. </item>
+        <item> BCA </item>
+        <item> BSC </item>
+        <item> BAF </item>
+        <item> BMS</item>
+        <item> B.Com </item>
+    </string-array>
+    <string name="spinner_prompt">Please select an item</string>
+</resources>
